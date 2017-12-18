@@ -1,1 +1,1 @@
-# MCTS-Checkers
+# Chess
